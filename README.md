@@ -23,7 +23,7 @@ CSS – Styling and layout
 JavaScript – Game logic and interactions
 
 📸 Screenshot
-![Screenshot (11)](https://github.com/user-attachments/assets/b521a4f4-f709-413c-8cd8-d245cc474384)
+
 ![Screenshot (11)](https://github.com/user-attachments/assets/51d529b9-b41a-4682-a156-bdff94cbc81e)
 ![Screenshot (12)](https://github.com/user-attachments/assets/a87ea9d4-1347-4358-bc74-4756de025c15)
 
